@@ -115,3 +115,7 @@ The dashboard is designed to adapt to different screen sizes, providing a usable
 
 **Backend:**
 https://github.com/wasem7112011/Restaurant-Dashboard-Backend
+
+## 🌐 Live Demo
+
+[Try the live dashboard](https://restaurant-dashboard-peach.vercel.app/)
